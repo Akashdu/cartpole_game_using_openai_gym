@@ -49,4 +49,4 @@ the pole was balanced on the cart for more than 2000 timeframes and outperforms 
 <a href = "https://keon.io/deep-q-learning/">Medium blog</a><br/>
 
 # Link to other OpenAI-GYM Enviroments
-<a href='https://github.com/adibyte95/Mountain_car-OpenAI-GYM'>mountain car</a>
+<a href='https://github.com/Akashdu/-Mountain_car-OpenAI-GYM'>mountain car</a>
